@@ -11,7 +11,7 @@ Juan David Toloza _ 2221067,  Oscar Miguel Ortega _ 2220528, Cristian Alberto So
 
 ## **Dataset**
 
-- [Link del Dataset](https://drive.google.com/file/d/1y4wvPdOG3mojpFCHTqLgriexhbjoWVkK/view?usp=sharing)
+- Link del Dataset: https://drive.google.com/file/d/1y4wvPdOG3mojpFCHTqLgriexhbjoWVkK/view?usp=sharing
 - Descripción: El GoPro Large Dataset es un referente en tareas de motion deblurring, compuesto por pares de imágenes borrosas y nítidas extraídas de videos de alta velocidad. Este conjunto captura desenfoque realista derivado del movimiento relativo entre la cámara y los objetos. Aunque la resolución nativa es de 1280×720 píxeles, se llevó a cabo un preprocesamiento de redimensionamiento espacial a 224×224 píxeles, gestionado en un notebook independiente llamado Dataset.ipynb. Para la fase experimental, se seleccionó un subconjunto de datos distribuido en 2,814 imágenes para entrenamiento y 400 imágenes para la validación/prueba (test).
 
 ## **Modelos**
