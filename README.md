@@ -54,5 +54,5 @@ Juan David Toloza _ 2221067,  Oscar Miguel Ortega _ 2220528, Cristian Alberto So
 ## **Enlaces**
 
 - Código: https://github.com/OscarMigue9/IA_2/blob/main/Deblur.ipynb
-- Video:
+- Video: https://youtu.be/WZ6V5WCO5hE?si=Rpz2D79-IB1x-_eP
 - Repositorio (Github): https://github.com/OscarMigue9/IA_2
