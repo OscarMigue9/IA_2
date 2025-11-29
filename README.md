@@ -16,14 +16,43 @@ Juan David Toloza _ 2221067,  Oscar Miguel Ortega _ 2220528, Cristian Alberto So
 
 ## **Modelos**
 
-- Fine Tunning EfficientNetB4:
-- Fine Tunning VGG19:
-- Residual Unet:
-- NafNET:
-- Uptimus:
+- Fine Tunning EfficientNetB4
+  - Transfer Learning 
+  - EfficientNetB4 Backbone 
+  - Encoder-Decoder
+  - Skip Connections 
+  - Conv2DTranspose
+
+- Fine Tunning VGG19
+  - Transfer Learning 
+  - VGG19 Backbone 
+  - Feature Extraction
+  - Concatenation (Concat)
+  - Batch Normalization (BN)
+
+- Residual Unet
+  - Global Residual Connection 
+  - Input Identity 
+  - Double Conv 
+  - Dropout Regularization 
+  - MAE + SSIM Loss
+
+- NafNET
+  - NAFBlock (Nonlinear Activation Free)
+  - SimpleGate
+  - Simplified Channel Attention (SCA)
+  - LayerNorm 
+  - Multi-stage Decoder
+
+- Uptimus
+  - LeWinBlock (Locally-enhanced Window)
+  - Transformer-based 
+  - Window Attention 
+  - Conv Transpose2D 
+  - Multi-scale Architecture 
 
 ## **Enlaces**
 
-- Código:
+- Código: https://github.com/OscarMigue9/IA_2/blob/main/Deblur.ipynb
 - Video:
-- Repositorio (Github):
+- Repositorio (Github): https://github.com/OscarMigue9/IA_2
